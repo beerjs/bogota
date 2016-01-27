@@ -1,5 +1,8 @@
 BeerJS Bogota
 ====
+
+![BeerJS](https://raw.githubusercontent.com/beerjs/bogota/master/assets/beerjs.png)
+
 *Encuentro JavaScripters + cerveceros en Bogotá*
 
 [![Gitter chat][npm-image]][npm-url]
@@ -34,7 +37,7 @@ Cualquier duda o comentario los administradores estamos atentos:
 
 Salud!!! :beers: :beers: :beers:
 
-## Lincencia
+## Licencia
 
 [MIT](./assets/LICENSE)
 
