@@ -24,6 +24,7 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
 Puedes encontrarnos también en:
 
   - [MeetUp](http://www.meetup.com/Beer-JS-Bogota/)
+  - [Facebook](https://www.facebook.com/beerjsbog/)
 
 ## Código de conducta
 
