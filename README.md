@@ -42,4 +42,4 @@ Salud!!! :beers: :beers: :beers:
 [MIT](./assets/LICENSE)
 
 [npm-image]: https://img.shields.io/gitter/room/nwjs/nw.js.svg
-[npm-url]: https://gitter.im/beerjs/bogota)
+[npm-url]: https://gitter.im/beerjs/bogota
