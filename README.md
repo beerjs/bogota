@@ -13,7 +13,7 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
 
 ## Auspicios
 
-¿Te gustaría apoyar BeerJS? [Escríbenos](mailto:maasencioh@gmail.com)
+¿Te gustaría apoyar BeerJS? [Escríbenos](mailto:beerjsbog@gmail.com)
 
 ## Próximo Encuentro
 
@@ -25,6 +25,7 @@ Puedes encontrarnos también en:
 
   - [MeetUp](http://www.meetup.com/Beer-JS-Bogota/)
   - [Facebook](https://www.facebook.com/beerjsbog/)
+  - [Twitter](https://twitter.com/BeerjsBogota)
 
 ## Código de conducta
 
