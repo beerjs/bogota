@@ -26,6 +26,7 @@ Puedes encontrarnos también en:
   - [MeetUp](http://www.meetup.com/Beer-JS-Bogota/)
   - [Facebook](https://www.facebook.com/beerjsbog/)
   - [Twitter](https://twitter.com/BeerjsBogota)
+  - [Google+](https://plus.google.com/communities/106847662527804710459)
 
 ## Código de conducta
 
