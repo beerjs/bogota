@@ -17,7 +17,7 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
 
 ## Próximo Encuentro
 
-*En planificación*
+  - [Primera reunión para conocernos](meetings/Primera reunión para conocernos.md)
 
 ## Otros canales
 
