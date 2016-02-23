@@ -27,6 +27,7 @@ Puedes encontrarnos también en:
   - [Facebook](https://www.facebook.com/beerjsbog/)
   - [Twitter](https://twitter.com/BeerjsBogota)
   - [Google+](https://plus.google.com/communities/106847662527804710459)
+  - [Slack](https://beerjsbog.herokuapp.com/)
 
 ## Código de conducta
 
