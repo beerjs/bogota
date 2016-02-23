@@ -37,6 +37,7 @@ Todos los eventos patrocinados por beer.js están sujetas al [código de conduct
 Cualquier duda o comentario los administradores estamos atentos:
 
   - [Miguel Asencio](http://www.github.com/maasencioh)
+  - [Ignacio Galieri](https://github.com/irgalieri)
 
 Salud!!! :beers: :beers: :beers:
 
