@@ -5,7 +5,8 @@ BeerJS Bogota
 
 *Encuentro JavaScripters + cerveceros en Bogotá*
 
-[![Gitter chat][npm-image]][npm-url]
+[![Gitter chat][gitter-image]][gitter-url]
+[![Slack Status][slack-image]][slack-url]
 
 ## ¿Qué?
 
@@ -16,11 +17,12 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
 ¿Te gustaría apoyar BeerJS? [Escríbenos](mailto:beerjsbog@gmail.com)
 
 ## Próximo Encuentro
-  - [Paquetes NPM + websocket y javascript](meetings/NPM_websockets.md)
+  - *En planificación*
 
 ## Encuentros pasados
+  - [Paquetes NPM + websocket y javascript](meetings/NPM_websockets.md)
   - [Primera reunión para conocernos](meetings/Primera_reunion.md)
-  
+
 ## Otros canales
 
 Puedes encontrarnos también en:
@@ -48,5 +50,7 @@ Salud!!! :beers: :beers: :beers:
 
 [MIT](./assets/LICENSE)
 
-[npm-image]: https://img.shields.io/gitter/room/nwjs/nw.js.svg
-[npm-url]: https://gitter.im/beerjs/bogota
+[gitter-image]: https://img.shields.io/gitter/room/nwjs/nw.js.svg
+[gitter-url]: https://gitter.im/beerjs/bogota
+[slack-image]: https://beerjsbog.herokuapp.com/badge.svg
+[slack-url]: https://beerjsbog.herokuapp.com/

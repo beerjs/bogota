@@ -24,5 +24,8 @@ Esta charla se trata sobre la utilización de WebSockets para lograr un integrac
   - 8:30pm: Charlas rápidas (si tienen algo que quieran hablar este es su momento)
   - 8:40pm: Networking
 
-## Sponsors
-  - [Su empresa acá](https://app.sponzor.me/#/event/1160)
+## Presentaciones
+  - [Introducción a los paquetes NPM](./slides/paquetesNPM.pdf)
+  - [WebSockets y javascript](http://slides.com/nachonerd/deck/fullscreen#/)
+  - [Ejemplo monitoreo de servidor](https://github.com/irgalieri/websocket-monitoring)
+  - [Ejemplo suma cúbica](https://github.com/irgalieri/cube-summation)
