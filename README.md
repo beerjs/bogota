@@ -5,7 +5,8 @@ BeerJS Bogota
 
 *Encuentro JavaScripters + cerveceros en Bogotá*
 
-[![Gitter chat][npm-image]][npm-url]
+[![Gitter chat][gitter-image]][gitter-url]
+[![Slack Status][slack-image]][slack-url]
 
 ## ¿Qué?
 
@@ -49,5 +50,7 @@ Salud!!! :beers: :beers: :beers:
 
 [MIT](./assets/LICENSE)
 
-[npm-image]: https://img.shields.io/gitter/room/nwjs/nw.js.svg
-[npm-url]: https://gitter.im/beerjs/bogota
+[gitter-image]: https://img.shields.io/gitter/room/nwjs/nw.js.svg
+[gitter-url]: https://gitter.im/beerjs/bogota
+[slack-image]: https://beerjsbog.herokuapp.com/badge.svg
+[slack-url]: https://beerjsbog.herokuapp.com/
