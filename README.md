@@ -16,11 +16,12 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
 ¿Te gustaría apoyar BeerJS? [Escríbenos](mailto:beerjsbog@gmail.com)
 
 ## Próximo Encuentro
-  - [Paquetes NPM + websocket y javascript](meetings/NPM_websockets.md)
+  - *En planificación*
 
 ## Encuentros pasados
+  - [Paquetes NPM + websocket y javascript](meetings/NPM_websockets.md)
   - [Primera reunión para conocernos](meetings/Primera_reunion.md)
-  
+
 ## Otros canales
 
 Puedes encontrarnos también en:
