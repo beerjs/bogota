@@ -16,8 +16,10 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
 
 ¿Te gustaría apoyar BeerJS? [Escríbenos](mailto:beerjsbog@gmail.com)
 
+  - [Intraway](http://www.intraway.com/)
+
 ## Próximo Encuentro
-  - *En planificación*
+  - [MongoDB para JavaScripters](meetings/Mongo.md)
 
 ## Encuentros pasados
   - [Paquetes NPM + websocket y javascript](meetings/NPM_websockets.md)
@@ -28,10 +30,11 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
 Puedes encontrarnos también en:
 
   - [MeetUp](http://www.meetup.com/Beer-JS-Bogota/)
+  - [Invitación Slack](https://beerjsbog.herokuapp.com/)
+  - [Canal Slack](https://beerjsbog.slack.com/)
   - [Facebook](https://www.facebook.com/beerjsbog/)
   - [Twitter](https://twitter.com/BeerjsBogota)
   - [Google+](https://plus.google.com/communities/106847662527804710459)
-  - [Slack](https://beerjsbog.herokuapp.com/)
 
 ## Código de conducta
 
