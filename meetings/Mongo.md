@@ -9,7 +9,10 @@ Nuestro tercer encuentro del año tratará sobre uno de los gestores de bases de
 ### Introducción MongoDB:
 _Miguel Asencio_
 
-*En progreso*
+  - Introducción
+  - CRUD
+  - Replica Set
+  - Sharding
 
 ### MongoDB + JavaScript:
 _Ignacio Galieri_
