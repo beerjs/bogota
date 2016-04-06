@@ -1,5 +1,5 @@
-# Paquetes NPM + Websockets y javascript
-  - [Link](http://www.meetup.com/Beer-JS-Bogota/)
+# MongoDB para JavaScripters
+  - [Link](http://www.meetup.com/Beer-JS-Bogota/events/230163492/)
   - Fecha: 14 Abril 2016
   - Lugar: [El Perrino Café Y Película](https://www.google.com.co/maps/place/El+Perrino+cafe+y+pelicula/@4.6613399,-74.0666472,17z/data=!3m1!4b1!4m2!3m1!1s0x8e3f9a5a1d3caa01:0x9d7992cc767061f7)
 
