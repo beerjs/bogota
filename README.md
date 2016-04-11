@@ -16,7 +16,7 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
 
 ¿Te gustaría apoyar BeerJS? [Escríbenos](mailto:beerjsbog@gmail.com)
 
-  - [Intraway](http://www.intraway.com/)
+  - [Intraway](https://www.dropbox.com/s/nnu4vlkekp19tme/Intraway%20Cable%204.4%20ENG%20-%20reference.pdf?dl=0)
 
 ## Próximo Encuentro
   - [MongoDB para JavaScripters](meetings/Mongo.md)
