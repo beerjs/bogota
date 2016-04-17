@@ -19,9 +19,10 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
   - [Intraway](https://www.dropbox.com/s/nnu4vlkekp19tme/Intraway%20Cable%204.4%20ENG%20-%20reference.pdf?dl=0)
 
 ## Próximo Encuentro
-  - [MongoDB para JavaScripters](meetings/Mongo.md)
+  - *En progreso*
 
 ## Encuentros pasados
+  - [MongoDB para JavaScripters](meetings/Mongo.md)
   - [Paquetes NPM + websocket y javascript](meetings/NPM_websockets.md)
   - [Primera reunión para conocernos](meetings/Primera_reunion.md)
 

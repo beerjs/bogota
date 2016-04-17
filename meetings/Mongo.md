@@ -7,7 +7,8 @@
 Nuestro tercer encuentro del año tratará sobre uno de los gestores de bases de datos noSQL más importantes:
 
 ### Introducción MongoDB:
-_Miguel Asencio_
+
+*Miguel Asencio*
 
   - Introducción
   - CRUD
@@ -15,17 +16,26 @@ _Miguel Asencio_
   - Sharding
 
 ### MongoDB + JavaScript:
-_Ignacio Galieri_
+
+*Ignacio Galieri*
 
   - Exlicacion de diferencias entre DB relacional
   - Consultas usando el cliente
   - Implementacion Con NodeJS
   - Algún ejemplo practico
 
-## Agenda
+### Agenda
+
   - 7:00pm: Llegada de los asistentes
   - 7:15pm: Charla introducción MongoDB
   - 7:45pm: Charla MongoDB + JavaScript
   - 8:15pm: Solución de dudas
   - 8:30pm: Charlas rápidas (si tienen algo que quieran hablar este es su momento)
   - 8:40pm: Networking
+
+### Presentaciones
+
+  - [Presentación introducción](./slides/mongoDB.pdf)
+  - [Repositorio ejemplo](https://github.com/maasencioh/mongo-examples)
+  - [MongoDB for Javascripters](http://slides.com/nachonerd/mongodb#/)
+  - [Ejemplo: MongoDB Client - Stack Rank](https://github.com/MuleDojo/stackrank)
