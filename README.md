@@ -1,5 +1,4 @@
-BeerJS Bogota
-====
+# BeerJS Bogota
 
 ![BeerJS](https://raw.githubusercontent.com/beerjs/bogota/master/assets/beerjs.png)
 
