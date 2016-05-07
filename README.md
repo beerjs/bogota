@@ -19,7 +19,7 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
   - [Intraway](https://www.dropbox.com/s/nnu4vlkekp19tme/Intraway%20Cable%204.4%20ENG%20-%20reference.pdf?dl=0)
 
 ## Próximo Encuentro
-  - *En progreso*
+  - [Taller de replicación para MongoDB](meetings/Replica.md)
 
 ## Encuentros pasados
   - [MongoDB para JavaScripters](meetings/Mongo.md)
