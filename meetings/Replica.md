@@ -23,3 +23,7 @@ Nuestro cuarto encuentro del año tratará sobre como asegurar disponibilidad co
   - 8:15pm: Solución de dudas
   - 8:30pm: Charlas rápidas (si tienen algo que quieran hablar, este es su momento)
   - 8:40pm: Networking
+
+## Presentaciones
+  - [Presentación corta](./slides/replicaSets.pdf)
+  - [Tutorial taller replicación](https://github.com/maasencioh/mongo-replicaset)
