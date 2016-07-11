@@ -8,7 +8,7 @@ Nuestro cuarto encuentro del año tratará sobre como asegurar disponibilidad co
 
 ### Taller:
 
-*Miguel Asencio*
+> Miguel Asencio
 
   - Introducción
   - Configuración de replica

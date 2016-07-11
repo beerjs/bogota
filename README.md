@@ -19,9 +19,10 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
 
 ## Próximo Encuentro
 
-  - [Taller de replicación para MongoDB](meetings/Replica.md)
+  - [Service workers](meetings/Service_workers.md)
 
 ## Encuentros pasados
+  - [Taller de replicación para MongoDB](meetings/Replica.md)
   - [MongoDB para JavaScripters](meetings/Mongo.md)
   - [Paquetes NPM + websocket y javascript](meetings/NPM_websockets.md)
   - [Primera reunión para conocernos](meetings/Primera_reunion.md)
@@ -47,6 +48,7 @@ Cualquier duda o comentario los administradores estamos atentos:
 
   - [Miguel Asencio](http://www.github.com/maasencioh)
   - [Ignacio Galieri](https://github.com/irgalieri)
+  - [Daniel Naranjo](https://github.com/Bound3R)
 
 Salud!!! :beers: :beers: :beers:
 

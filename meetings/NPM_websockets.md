@@ -7,12 +7,12 @@
 Nuestro segundo encuentro del año tratará dos temas de alto interés:
 
 ### Introducción a los paquetes NPM
-_Miguel Asencio_
+> Miguel Asencio
 
 Esta charla trata de como funciona un paquete en Node.js, como llenar un archivo `package.json`, como escribir un script NPM y como subirlo a NPM.
 
 ### WebSockets y javascript:
-_Ignacio Galieri_
+> Ignacio Galieri
 
 Esta charla se trata sobre la utilización de WebSockets para lograr un integración entre BE (backend) y FE (frontend).
 
