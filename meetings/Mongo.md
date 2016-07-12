@@ -8,7 +8,7 @@ Nuestro tercer encuentro del año tratará sobre uno de los gestores de bases de
 
 ### Introducción MongoDB:
 
-*Miguel Asencio*
+> Miguel Asencio
 
   - Introducción
   - CRUD
@@ -17,7 +17,7 @@ Nuestro tercer encuentro del año tratará sobre uno de los gestores de bases de
 
 ### MongoDB + JavaScript:
 
-*Ignacio Galieri*
+> Ignacio Galieri
 
   - Exlicacion de diferencias entre DB relacional
   - Consultas usando el cliente
