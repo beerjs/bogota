@@ -18,10 +18,10 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
   - [Intraway](https://www.dropbox.com/s/nnu4vlkekp19tme/Intraway%20Cable%204.4%20ENG%20-%20reference.pdf?dl=0)
 
 ## Próximo Encuentro
-
-  - [Service workers](meetings/Service_workers.md)
+  - *En planificación*
 
 ## Encuentros pasados
+  - [Service workers](meetings/Service_workers.md)
   - [Taller de replicación para MongoDB](meetings/Replica.md)
   - [MongoDB para JavaScripters](meetings/Mongo.md)
   - [Paquetes NPM + websocket y javascript](meetings/NPM_websockets.md)
