@@ -4,13 +4,19 @@
   - Lugar: *Por definir*
 
 ## Propuesta
-Nuestro sexto encuentro del año será en inglés y tratará sobre *Brief description of the presentation in spanish*:
+Nuestro sexto encuentro del año será en inglés y tratará sobre el análisis de datos e imagenes en el navegador:
 
 ### Image processing and manipulation in JavaScript
 
 > Luc Patiny
 
-*Brief description of the presentation*
+More and more applications are currently available in the cloud like Gmail, OneDrive, GoogleDocs, iCloud. However up to now few scientific data analysis can be done directly in your web-browser.
+
+During this talk we will present the javascript framework that we have develop and that allows to create and make available in couple of clicks complex scientific applications.
+
+Various example will be presented in the field of data analysis, and image analysis.
+
+All the project is open-source (MIT license).
 
 ### Agenda
 
