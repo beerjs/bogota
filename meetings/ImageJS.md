@@ -1,7 +1,7 @@
 # Image processing and manipulation in JavaScript
-  - [Link](http://www.meetup.com/Beer-JS-Bogota/)
+  - [Link](http://www.meetup.com/Beer-JS-Bogota/events/234524260/)
   - Fecha: 7 Octubre 2016
-  - Lugar: *Por definir*
+  - Lugar: [Atom House](https://goo.gl/maps/RbS1AqJPekB2)
 
 ## Propuesta
 Nuestro sexto encuentro del año será en inglés y tratará sobre el análisis de datos e imagenes en el navegador:
