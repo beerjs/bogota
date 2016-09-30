@@ -18,7 +18,7 @@ Somos humanos que escribimos código que sólo las máquinas interpretan. Pero q
   - [Intraway](https://www.dropbox.com/s/nnu4vlkekp19tme/Intraway%20Cable%204.4%20ENG%20-%20reference.pdf?dl=0)
 
 ## Próximo Encuentro
-  - *En planificación*
+  - [Image processing and manipulation in JavaScript](meetings/ImageJS.md)
 
 ## Encuentros pasados
   - [Service workers](meetings/Service_workers.md)
